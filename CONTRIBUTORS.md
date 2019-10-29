@@ -1,3 +1,8 @@
+#### Name: Vincent
+ -Place: Nairobi, Kenya
+ -Bio: Software Developer.
+ -GitHub: [VinneyJ](https://github.com/VinneyJ)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
